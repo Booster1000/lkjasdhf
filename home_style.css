@@ -1,0 +1,42 @@
+body {
+    background-image: url('https://img.freepik.com/free-vector/gradient-pastel-sky-background_52683-60513.jpg?w=2000');
+    background-size: cover;
+    text-align: center;
+    background-size: center;
+    background-repeat: no-repeat;
+    font-family: 'Acme', sans-serif;
+}
+
+#container {
+    background-color: #00ffdd;
+    margin-top: -20px;
+    padding: 10px;
+    box-shadow: 5px 5px 5px rgb(255, 0, 0);
+}
+
+.headings1 {
+    font-size: 80px;
+    color: rgb(107, 104, 104);
+    text-shadow: 5px 2px 2px white;
+}
+
+#pop {
+    right: 0;
+    position: fixed;
+    margin-right: 10px;
+    background-color: orangered;
+    color: aliceblue;
+    border-radius: 5px;
+}
+
+.modal-dialog {
+    width: 45%;
+}
+
+.but {
+    background-color: black;
+    color: #00ffdd;
+    font-size: 70px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px black;
+}
